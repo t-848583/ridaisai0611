@@ -1,6 +1,6 @@
 ---
 title: 'はじめまして！'
-cover: 'image1.jpg'
+cover: 'image2.jpg'
 created: '2025/06/01'
 updated: '2025/06/01'
 ---

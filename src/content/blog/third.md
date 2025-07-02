@@ -1,6 +1,6 @@
 ---
 title: '研究活動レポート'
-cover: 'image1.jpg'
+cover: 'image4.jpg'
 created: '2025/06/01'
 updated: '2025/06/01'
 ---
