@@ -1,4 +1,4 @@
----え
+---
 title: '教育・科学コミュニケーション'
 cover: 'image1.jpg'
 created: '2025/06/01'
